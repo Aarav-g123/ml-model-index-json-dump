@@ -1,2 +1,2 @@
 # ml-model-index-json-dump
-Python scrip to dump 
+Python script to dump 
