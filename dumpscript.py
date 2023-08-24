@@ -7,7 +7,7 @@ with safe_open("path/to/model.safetensors", framework="pt", device="cpu") as f:
 
 # Create the model_index.json file
 model_index = {
-    "model": "Neonmcgameromgomg/chilloutmix",
+    "model": "modelname",
     "files": {
         "safetensors": "path/to/model.safetensors"
     },
